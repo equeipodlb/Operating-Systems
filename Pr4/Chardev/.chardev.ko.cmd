@@ -1,0 +1,1 @@
+cmd_/media/sf_MaquinaVirtual/Pr4/ficheros_p4/Chardev/chardev.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /media/sf_MaquinaVirtual/Pr4/ficheros_p4/Chardev/chardev.ko /media/sf_MaquinaVirtual/Pr4/ficheros_p4/Chardev/chardev.o /media/sf_MaquinaVirtual/Pr4/ficheros_p4/Chardev/chardev.mod.o;  true

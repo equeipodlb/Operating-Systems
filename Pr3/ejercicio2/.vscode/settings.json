@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdlib.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/media/sf_MaquinaVirtual/Pr3/ficheros_p3/ejercicio2",
+            "binaryPath": "/media/sf_MaquinaVirtual/Pr3/ficheros_p3/ejercicio2/cocinero",
+            "binaryArgs": []
+        }
+    ]
+}

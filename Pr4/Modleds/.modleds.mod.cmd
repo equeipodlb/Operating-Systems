@@ -1,0 +1,1 @@
+cmd_/media/sf_MaquinaVirtual/Pr4/ficheros_p4/Modleds/modleds.mod := { echo  /media/sf_MaquinaVirtual/Pr4/ficheros_p4/Modleds/modleds.o;  echo; } > /media/sf_MaquinaVirtual/Pr4/ficheros_p4/Modleds/modleds.mod

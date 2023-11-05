@@ -1,0 +1,1 @@
+| numVipsFuera > 0
